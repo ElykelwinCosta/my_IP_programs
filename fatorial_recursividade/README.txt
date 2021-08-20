@@ -1,0 +1,1 @@
+Calcula o fatorial do número 20.
